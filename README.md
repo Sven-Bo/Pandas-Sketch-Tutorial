@@ -4,8 +4,7 @@ Whether you're new to Python or an experienced data analyst, Sketch is a handy t
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/B6EUzBCTaLw/0.jpg)](https://youtu.be/B6EUzBCTaLw)
 
 
 ## 🤝 Get to Know Me & Stay Connected
