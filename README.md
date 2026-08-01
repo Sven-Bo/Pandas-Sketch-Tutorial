@@ -2,17 +2,14 @@
 Explore the power of Sketch, a new Python library that makes working with Pandas even easier. In this tutorial, we'll walk through how Sketch can take your plain English questions and transform them into Pandas code for data analysis. 
 Whether you're new to Python or an experienced data analyst, Sketch is a handy tool that can make your data analysis tasks quicker and more efficient. 
 
-
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/B6EUzBCTaLw/0.jpg)](https://youtu.be/B6EUzBCTaLw)
 
+## Learn Excel Automation with Python
+If this repo helped you, my [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches the full workflow from zero: Python for Excel users, xlwings, pandas and real projects.
 
+Also check out my other [tools and templates](https://pythonandvba.com/solutions).
 
-
-## More Solutions
-Explore my tools and templates for Excel, automation, and more.
-
-**[View all solutions](https://pythonandvba.com/solutions)**
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
